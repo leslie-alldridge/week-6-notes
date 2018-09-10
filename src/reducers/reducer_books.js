@@ -1,9 +1,9 @@
 export default function () {
     return [
-        {title: 'leslie'},
-        {title: 'luke'},
-        {title: 'yuzu'},
-        {title: 'bruce'}
+        {title: 'leslie', pages: 101},
+        {title: 'luke', pages: 10},
+        {title: 'yuzu', pages: 400},
+        {title: 'bruce', pages: 1}
     ]
 }
 
